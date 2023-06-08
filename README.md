@@ -1,5 +1,6 @@
 - Hi, I’m Chase Balmer.
-- I’m a student at Rit (Class of 2026) interested in game design, computer science, and developing my coding skills.  
+- I’m a second year undergraduate computer science student at RIT. 
+- I'm interested in software design and computer science related topics. 
 - How to reach me - chase.balmer@outlook.com
 
 <!---
