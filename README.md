@@ -1,5 +1,5 @@
 - Hi, I’m Chase Balmer.
-- I’m a second year undergraduate computer science student at RIT. 
+- I’m a third year undergraduate computer science student at RIT. 
 - I'm interested in software design and computer science related topics. 
 - How to reach me - chase.balmer@outlook.com
 
