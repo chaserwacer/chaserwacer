@@ -1,11 +1,15 @@
-Hello, I'm Chase Balmer, a third-year Computer Science student at RIT (fourth year junior/senior on paper). I am seeking an internship to apply my knowledge, contribute to a dynamic team, and gain real-world experience in the field of technology. I am looking for an internship during or spanning from January 2025-December 2025.<br>
+Hello, I’m Chase Balmer, a fourth-year Computer Science student at RIT.
 
-Over the summer of 2023, I worked as a Junior Software Developer at Lattice Ventures. LV is a startup software company developing a product for use in the legal field. The team consisted of highly skilled, senior professionals who were incredibly supportive in guiding me through challenging tasks and providing valuable feedback on my work.<br>
+For the first half of 2025, I worked as a Software Engineer Intern at MKS Instruments, where I developed backend software that supported production processes. My work centered around .NET development, building internal systems for our production backend system. 
 
-Over the summer of 2024, I have been individually developing a fully fleshed out application. This application, named Lionheart, is an athletic training data hub. It allows users to store all of their training data in one location, allowing for easy analysis of personal trends and results. This project has been extremely fulfilling, teaching, and crucial in developing my skills in the field of software development. Working full stack has allowed me to further my experience on both fronts. <br>
+Over the summer of 2025, I’ve continued developing Project Lionheart, an entrepreneurial software project focused on redefining how athletes store, analyze, and act on their training data. The application serves as a centralized hub for wellness data, oura ring data, training sessions, injuries, and activities. Lionheart also offers training session management tools and an intelligent coach chat interface powered by Open AI language models. 
 
-I also play a leadership role in the RIT Barbell Club, fostering physical and mental strength within our community. My natural leadership, strong communication, and determination drive me.<br>
+This project has been an invaluable learning platform. I’ve deepened my skills in prompt engineering, LLM integration, LLM tool calling, agentic flows, and Model Context Protocol (MCP). In Summer 2025, I brought on Blake Rossi as a collaborator, expanding Lionheart’s technical scope and development velocity.
 
-My commitment to excellence led to Dean's List for every semester I have been at RIT, along with the RIT Presidential Scholarship and the Innovation and Creativity Award Scholarship. Currently, my immersion is in the Science, Technology, and Society program.<br>
+Over the summer of 2023, I worked as a Junior Software Developer at Lattice Ventures. LV is a startup software company developing a product for use in the legal field. The team consisted of highly skilled, senior professionals who were incredibly supportive in guiding me through challenging tasks and providing valuable feedback on my work.
 
-With practical software development experience, I excel in teamwork and problem-solving. I'm passionate about technology's impact and open to exciting opportunities. Let's connect and explore possibilities together!<br>
+Outside of software development, I am a part of the RIT Barbell Club, where I help foster both physical and mental strength within our community. I am an active mountain biker, backpacker, hiker, and movement advocate. 
+
+My dedication has been recognized through the Dean’s List every semester, the RIT Presidential Scholarship, and the Innovation and Creativity Award Scholarship. My immersion is in Science, Technology, and Society, where I explore the broader context of technology’s impact.
+
+I’m passionate about software development, AI, and the intersection of technology and human performance. With a foundation in both industry experience and entrepreneurial projects, I’m excited to contribute to impactful, forward-looking teams.
