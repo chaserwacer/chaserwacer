@@ -2,9 +2,7 @@ Hello, I’m Chase Balmer, a fourth-year Computer Science student at RIT.
 
 For the first half of 2025, I worked as a Software Engineer Intern at MKS Instruments, where I developed backend software that supported production processes. My work centered around .NET development, building internal systems for our production backend system. 
 
-Over the summer of 2025, I’ve continued developing Project Lionheart, an entrepreneurial software project focused on redefining how athletes store, analyze, and act on their training data. The application serves as a centralized hub for wellness data, oura ring data, training sessions, injuries, and activities. Lionheart also offers training session management tools and an intelligent coach chat interface powered by Open AI language models. 
-
-This project has been an invaluable learning platform. I’ve deepened my skills in prompt engineering, LLM integration, LLM tool calling, agentic flows, and Model Context Protocol (MCP). In Summer 2025, I brought on Blake Rossi as a collaborator, expanding Lionheart’s technical scope and development velocity.
+Over the summer of 2025, I continued developing Project Lionheart, a full-stack athletic training data platform designed to model and analyze training, recovery, lifestyle, and injury data within a unified system. Built in .NET 9 with Entity Framework Core and SQLite, with a SvelteKit frontend, the platform emphasizes strong data modeling, clear service boundaries, and extensibility. I implemented an LLM-powered chat interface that accesses application data exclusively through controlled internal tools, with server-side validation and execution. This project has been an invaluable learning platform, deepening my skills in prompt engineering, LLM integration, LLM tool calling, agentic flows, and Model Context Protocol.
 
 Over the summer of 2023, I worked as a Junior Software Developer at Lattice Ventures. LV is a startup software company developing a product for use in the legal field. The team consisted of highly skilled, senior professionals who were incredibly supportive in guiding me through challenging tasks and providing valuable feedback on my work.
 
