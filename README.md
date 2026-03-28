@@ -1,7 +1,14 @@
 Hello, I’m Chase Balmer!
 
 I am a fourth-year Computer Science student at the Rochester Institute of Technology pursuing a full-time software engineering role beginning June 2026. My experience spans full-stack development, backend systems, and production AI integrations, with a consistent focus on building reliable, well-architected software.
+
+
 At MKS Inc. (Spring 2025), I worked on .NET Framework backend software supporting production systems. I helped build and maintain backend subsystems, evaluated and integrated third-party libraries, and participated in Agile planning and daily standups—strengthening my ability to deliver reliable software in a collaborative environment.
+
+
 Previously, at Lattice Ventures (Summer 2023), I worked on a full-stack legal-tech platform that used large language models to extract structured deal points from legal documents. I contributed across the stack using C#, TypeScript, Svelte, and .NET. I designed document-processing utilities to segment contracts, preserve contextual overlap, and structure inputs for controlled LLM interaction. This role taught me how to combine AI capabilities with practical application design.
+
 Outside of internships, I founded Project Lionheart, a full-stack athletic training data platform designed to model and analyze training, recovery, lifestyle, and injury data within a unified system. Built in .NET 9 using Entity Framework Core and SQLite, with a SvelteKit frontend, the platform emphasizes strong data modeling, clear service boundaries, and extensibility. I designed a controlled LLM integration layer that exposes validated internal tools to the model, enforcing server-side parameter validation and execution boundaries. This architecture allows for natural language interaction over user data. This project required careful decisions around schema design and safe model integration patterns to ensure system extensibility as more data sources were introduced. 
+
+
 At RIT, I've built proficiency in C#, Python, and Java, applying them across systems, AI, and data management projects. My recent coursework has been deliberately concentrated on Artificial Intelligence and Data Science, including hands-on work with Microsoft Azure AI Foundry models—building and deploying solutions for OCR, object detection and recognition, summarization, translation, and conversational agents. My immersion in the Science, Technology, and Society program has also shaped how I approach software design—grounding technical innovation in ethical awareness and social impact.
